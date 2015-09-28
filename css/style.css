@@ -1,0 +1,24 @@
+body {
+    background-color: #333;
+    font: 400 16px/1.2 Arial,sans-serif;
+}
+
+#gameName{
+	margin: 20px 0;
+	color: #fff;
+
+	font-family: 'Courier';
+	font-weight: bold;
+	font-size: 24px;
+	line-height: 1.2;
+	text-align: center;
+	 
+}
+
+#map{
+	background-color: #fff;
+	display: block;
+	
+	width: 1200px;
+	margin: 30px auto;
+}
